@@ -48,8 +48,8 @@ header li {
 }
 
 .articles article img {
-
-    /* height: 180px;*/
+    border-radius: 8px;
+    height: 230px;
     width: 100%;
 }
 
@@ -121,4 +121,18 @@ section h2 {
 #economy .articles article a {
 
     background-color: #f87a05;
+}
+
+#entreterimento {
+
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+#entreterimento .articles article a {
+
+    background-color: rgba(111, 0, 255, 0.555);
+}
+
+#tecnologia {
+    background-color: rgba(0, 174, 255, 0.301);
 }
